@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.exe
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.deps.json
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.dll
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\bin\Debug\netcoreapp3.1\class_lab_day.pdb
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.dll
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.pdb
+C:\Users\AZKOMP\source\repos\class_lab_day\class_lab_day\obj\Debug\netcoreapp3.1\class_lab_day.genruntimeconfig.cache
